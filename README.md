@@ -1,2 +1,2 @@
 # Recursion_Problems
-Interview Questions of Famous Companies
+Solutions of Interview Questions of Famous Companies
